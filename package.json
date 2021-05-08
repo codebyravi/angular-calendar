@@ -103,7 +103,7 @@
     "mocha": "^6.1.4",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.25",
-    "ng-packagr": "^4.7.1",
+    "ng-packagr": "^10.1.1",
     "ngx-contextmenu": "^5.1.1",
     "ngx-perfect-scrollbar": "^7.2.1",
     "node-sass": "^4.12.0",
